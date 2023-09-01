@@ -1,0 +1,62 @@
+body, h1, h2, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilos generales */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #ddd8e7;
+  }
+  
+  header {
+    background-color: #241d2b;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1, h2 {
+    margin-bottom: 20px;
+  }
+  
+  /* Botonera horizontal */
+  .botonera {
+    display: flex;
+    justify-content: space-around;
+    background-color: #444;
+    padding: 10px 0;
+  }
+  
+  .botonera a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+  }
+  
+  /* Secciones */
+  section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Lista de elementos */
+  .lista {
+    list-style-type: none;
+  }
+  
+  .lista li {
+    margin-bottom: 10px;
+  }
+  
+  /* Contacto */
+  #contacto p {
+    margin-bottom: 5px;
+  }
+      
+.imagenes {
+    width: 100px;
+    height: 100px;
+ }
+    
